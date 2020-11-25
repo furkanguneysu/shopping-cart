@@ -1,0 +1,67 @@
+{
+  "products" : [
+    {
+      "id" : 1,
+      "name" : "Tesla",
+      "description" : "American Brand Electric Car",
+      "imageUrl" : "https://im0-tub-tr.yandex.net/i?id=acf215221f4278eb3bb011af553e53de&n=13",
+      "price" : 40000
+    },
+    {
+      "id" : 2,
+      "name" : "Renault",
+      "description" : "Frech Brand Car",
+      "imageUrl" : "https://i.pinimg.com/736x/91/48/10/91481082d5c2c573523b6afa17709faa.jpg",
+      "price" : 10000
+    },
+    {
+      "id" : 3,
+      "name" : "Mercedes-Benz",
+      "description" : "German Brand Car",
+      "imageUrl" : "https://i.pinimg.com/236x/79/10/30/79103094a5829b14fadf390150b31afa--mercedes-benz-s-benz-car.jpg",
+      "price" : 20000
+    },
+    {
+      "id" : 4,
+      "name" : "TOGG",
+      "description" : "Turkish Brand Electric Car",
+      "imageUrl" : "https://sun9-47.userapi.com/c857624/v857624447/167c9e/XT5sE5P7PGI.jpg",
+      "price" : 30000
+    },
+    {
+      "id" : 5,
+      "name" : "Honda",
+      "description" : "Japan Brand Car",
+      "imageUrl" : "https://i.pinimg.com/236x/10/0e/af/100eaf2ad11cb6af7d6931ee8d18523c---honda-honda-cars.jpg",
+      "price" : 15000
+    },
+    {
+      "id" : 6,
+      "name" : "Ferrari",
+      "description" : "Italian Brand Luxury Car",
+      "imageUrl" : "https://im0-tub-tr.yandex.net/i?id=09b7e4803bdf61a7e29e922d058ac187&n=13",
+      "price" : 100000
+    }
+    
+  ],
+
+  "cart" : [],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
